@@ -10,11 +10,11 @@
     <!-- POLICE -->
 
     <Button
-        android:layout_width="75sp"
+        android:layout_width="75dp"
         android:id="@+id/police_button"
-        android:layout_height="75sp"
+        android:layout_height="75dp"
         android:layout_gravity="center"
-        android:layout_marginTop="75sp"
+        android:layout_marginTop="75dp"
         android:background="@drawable/police" />
 
     <TextView
@@ -28,9 +28,9 @@
 
     <Button
         android:id="@+id/hospital_button"
-        android:layout_width="75sp"
+        android:layout_width="75dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40sp"
+        android:layout_marginTop="40dp"
         android:layout_gravity="center"
         android:background="@drawable/hospital" />
 
@@ -45,10 +45,10 @@
 
     <Button
         android:id="@+id/fire_button"
-        android:layout_width="75sp"
-        android:layout_height="75sp"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
         android:layout_gravity="center"
-        android:layout_marginTop="40sp"
+        android:layout_marginTop="40dp"
         android:background="@drawable/fire"
         android:onClick="Fire" />
 
